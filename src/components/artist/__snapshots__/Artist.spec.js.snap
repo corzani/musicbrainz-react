@@ -1,0 +1,886 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Artist should describe the artist when the property "artist" is given 1`] = `
+<main>
+  <div>
+    <div
+      class="artistComponent-artistUnit-4"
+    >
+      <div
+        class="artistComponent-artistContent-5"
+      >
+        <h1
+          class="MuiTypography-root-12 MuiTypography-display3-14 MuiTypography-colorTextPrimary-35 MuiTypography-gutterBottom-30 MuiTypography-alignCenter-26"
+        >
+          <div>
+            Pink Floyd
+          </div>
+          <div>
+            <img
+              height="40"
+              src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 60 30' width='1200' height='600'%3E %3CclipPath id='t'%3E %3Cpath d='M30,15 h30 v15 z v15 h-30 z h-30 v-15 z v-15 h30 z'/%3E %3C/clipPath%3E %3Cpath d='M0,0 v30 h60 v-30 z' fill='%2300247d'/%3E %3Cpath d='M0,0 L60,30 M60,0 L0,30' stroke='%23fff' stroke-width='6'/%3E %3Cpath d='M0,0 L60,30 M60,0 L0,30' clip-path='url(%23t)' stroke='%23cf142b' stroke-width='4'/%3E %3Cpath d='M30,0 v30 M0,15 h60' stroke='%23fff' stroke-width='10'/%3E %3Cpath d='M30,0 v30 M0,15 h60' stroke='%23cf142b' stroke-width='6'/%3E %3C/svg%3E"
+            />
+          </div>
+        </h1>
+        <h3
+          class="MuiTypography-root-12 MuiTypography-subheading-19 MuiTypography-colorTextPrimary-35 MuiTypography-gutterBottom-30 MuiTypography-alignCenter-26"
+        >
+          <span>
+            <div
+              class="dv-star-rating dv-star-rating-non-editable"
+              style="display:inline-block;position:relative"
+            >
+              <input
+                class="dv-star-rating-input"
+                id="rate_5"
+                name="rate"
+                style="display:none;position:absolute;margin-left:-9999px"
+                type="radio"
+                value="5"
+              />
+              <label
+                class="dv-star-rating-star dv-star-rating-empty-star"
+                for="rate_5"
+                style="float:right;cursor:default;color:#333"
+              >
+                <i
+                  style="font-style:normal"
+                >
+                  ★
+                </i>
+              </label>
+              <input
+                class="dv-star-rating-input"
+                id="rate_4"
+                name="rate"
+                style="display:none;position:absolute;margin-left:-9999px"
+                type="radio"
+                value="4"
+              />
+              <label
+                class="dv-star-rating-star dv-star-rating-full-star"
+                for="rate_4"
+                style="float:right;cursor:default;color:#ffb400"
+              >
+                <i
+                  style="font-style:normal"
+                >
+                  ★
+                </i>
+              </label>
+              <input
+                class="dv-star-rating-input"
+                id="rate_3"
+                name="rate"
+                style="display:none;position:absolute;margin-left:-9999px"
+                type="radio"
+                value="3"
+              />
+              <label
+                class="dv-star-rating-star dv-star-rating-full-star"
+                for="rate_3"
+                style="float:right;cursor:default;color:#ffb400"
+              >
+                <i
+                  style="font-style:normal"
+                >
+                  ★
+                </i>
+              </label>
+              <input
+                class="dv-star-rating-input"
+                id="rate_2"
+                name="rate"
+                style="display:none;position:absolute;margin-left:-9999px"
+                type="radio"
+                value="2"
+              />
+              <label
+                class="dv-star-rating-star dv-star-rating-full-star"
+                for="rate_2"
+                style="float:right;cursor:default;color:#ffb400"
+              >
+                <i
+                  style="font-style:normal"
+                >
+                  ★
+                </i>
+              </label>
+              <input
+                class="dv-star-rating-input"
+                id="rate_1"
+                name="rate"
+                style="display:none;position:absolute;margin-left:-9999px"
+                type="radio"
+                value="1"
+              />
+              <label
+                class="dv-star-rating-star dv-star-rating-full-star"
+                for="rate_1"
+                style="float:right;cursor:default;color:#ffb400"
+              >
+                <i
+                  style="font-style:normal"
+                >
+                  ★
+                </i>
+              </label>
+            </div>
+          </span>
+        </h3>
+        <h3
+          class="MuiTypography-root-12 MuiTypography-subheading-19 MuiTypography-colorTextPrimary-35 MuiTypography-gutterBottom-30 MuiTypography-alignCenter-26"
+        >
+          <div>
+            1965 to 2014
+          </div>
+        </h3>
+        <p
+          class="MuiTypography-root-12 MuiTypography-subheading-19 MuiTypography-colorTextSecondary-36 MuiTypography-paragraph-31 MuiTypography-alignJustify-28"
+        >
+          Pink Floyd were an English rock band that achieved international success with their progressive and psychedelic rock music marked by the use of philosophical lyrics, sonic experimentation, and elaborate live shows. One of the most commercially successful and influential rock groups in the history of popular music, they have sold over 250 million records worldwide, including 74.5 million certified units in the United States. They were inducted into the US Rock and Roll Hall of Fame in 1996, and the UK Music Hall of Fame in 2005.
+The band originally consisted of university students Roger Waters, Nick Mason, Richard Wright, and Syd Barrett. Founded in 1965, they gained popularity performing in London's underground music scene during the late 1960s. Under Barrett's creative leadership they released two charting singles, "Arnold Layne" and "See Emily Play", and a successful début album, The Piper at the Gates of Dawn (1967). Guitarist and vocalist David Gilmour joined as a fifth member in December 1967, several months prior to Barrett's April 1968 departure due to deteriorating mental health. With the loss of Syd, the band moved from psychedelic pop to a more progressive sound, with many tracks written collaboratively while on tour. With this line-up they achieved critical and commercial success with the concept albums The Dark Side of the Moon (1973), Wish You Were Here (1975), Animals (1977) and The Wall (1979). With Animals and The Wall, Waters became the primary songwriter.
+Wright was forced by Waters to leave the group in 1979. Following The Final Cut (1983), the group was temporarily disbanded by Waters. Gilmour and Mason reformed in 1985, and were subsequently rejoined by Wright. They continued to record and tour through 1994, despite Waters' failed 1986 attempt to legally prevent them continuing as Pink Floyd; two more albums followed, A Momentary Lapse of Reason (1987) and The Division Bell (1994). After almost two decades of acrimony the band reunited in 2005 for a single performance, at the global awareness event Live 8. Wright died in 2008. Surviving members Gilmour and Mason joined Waters at one of his The Wall Tour shows on 12 May 2011 at the O2 Arena in London; Gilmour performed "Comfortably Numb" along with Waters and "Outside the Wall" with Mason and Waters.
+        </p>
+      </div>
+    </div>
+    <div
+      class="artistComponent-layout-7 artistComponent-cardGrid-8"
+    >
+      <p
+        class="MuiTypography-root-12 MuiTypography-display3-14 MuiTypography-colorTextPrimary-35 MuiTypography-paragraph-31 MuiTypography-alignLeft-25"
+      >
+        Releases
+      </p>
+      <div
+        class="MuiGrid-container-38 MuiGrid-spacing-xs-40-64"
+      >
+        <div
+          class="MuiGrid-item-39 MuiGrid-grid-sm-6-86 MuiGrid-grid-md-4-98 MuiGrid-grid-lg-3-111"
+        >
+          <div
+            class="MuiPaper-root-147 MuiPaper-elevation1-150 MuiPaper-rounded-148 MuiCard-root-146 releaseGroupsComponent-card-143 artistComponent-card-9"
+          >
+            <div
+              class="MuiCardMedia-root-174 releaseGroupsComponent-cardMedia-144 artistComponent-cardMedia-10"
+              style="background-image:url(\\"http://coverartarchive.org/release/ee7104dd-ed89-4b4f-850a-97c265381eb8/18662681690-250.jpg\\")"
+              title="Green Is the Colour"
+            />
+            <div
+              class="MuiCardContent-root-176 releaseGroupsComponent-cardContent-145 artistComponent-cardContent-11"
+            >
+              <h2
+                class="MuiTypography-root-12 MuiTypography-headline-17 MuiTypography-gutterBottom-30"
+              >
+                Green Is the Colour
+              </h2>
+              <p
+                class="MuiTypography-root-12 MuiTypography-body1-21"
+              >
+                1993-07
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiGrid-item-39 MuiGrid-grid-sm-6-86 MuiGrid-grid-md-4-98 MuiGrid-grid-lg-3-111"
+        >
+          <div
+            class="MuiPaper-root-147 MuiPaper-elevation1-150 MuiPaper-rounded-148 MuiCard-root-146 releaseGroupsComponent-card-143 artistComponent-card-9"
+          >
+            <div
+              class="MuiCardMedia-root-174 releaseGroupsComponent-cardMedia-144 artistComponent-cardMedia-10"
+              style="background-image:url(\\"/no-cover.png\\")"
+              title="A Desperate Attempt of Perfection"
+            />
+            <div
+              class="MuiCardContent-root-176 releaseGroupsComponent-cardContent-145 artistComponent-cardContent-11"
+            >
+              <h2
+                class="MuiTypography-root-12 MuiTypography-headline-17 MuiTypography-gutterBottom-30"
+              >
+                A Desperate Attempt of Perfection
+              </h2>
+              <p
+                class="MuiTypography-root-12 MuiTypography-body1-21"
+              >
+                2006
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiGrid-item-39 MuiGrid-grid-sm-6-86 MuiGrid-grid-md-4-98 MuiGrid-grid-lg-3-111"
+        >
+          <div
+            class="MuiPaper-root-147 MuiPaper-elevation1-150 MuiPaper-rounded-148 MuiCard-root-146 releaseGroupsComponent-card-143 artistComponent-card-9"
+          >
+            <div
+              class="MuiCardMedia-root-174 releaseGroupsComponent-cardMedia-144 artistComponent-cardMedia-10"
+              style="background-image:url(\\"http://coverartarchive.org/release/fba4438d-ede8-4153-bd15-e742bbef1fa1/14345758134-250.jpg\\")"
+              title="A Nice Pair"
+            />
+            <div
+              class="MuiCardContent-root-176 releaseGroupsComponent-cardContent-145 artistComponent-cardContent-11"
+            >
+              <h2
+                class="MuiTypography-root-12 MuiTypography-headline-17 MuiTypography-gutterBottom-30"
+              >
+                A Nice Pair
+              </h2>
+              <p
+                class="MuiTypography-root-12 MuiTypography-body1-21"
+              >
+                1973-12-05
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiGrid-item-39 MuiGrid-grid-sm-6-86 MuiGrid-grid-md-4-98 MuiGrid-grid-lg-3-111"
+        >
+          <div
+            class="MuiPaper-root-147 MuiPaper-elevation1-150 MuiPaper-rounded-148 MuiCard-root-146 releaseGroupsComponent-card-143 artistComponent-card-9"
+          >
+            <div
+              class="MuiCardMedia-root-174 releaseGroupsComponent-cardMedia-144 artistComponent-cardMedia-10"
+              style="background-image:url(\\"http://coverartarchive.org/release/f4a8aa35-da90-33d8-9307-c630d38a2bed/1611519564-250.jpg\\")"
+              title="Wish You Were Here"
+            />
+            <div
+              class="MuiCardContent-root-176 releaseGroupsComponent-cardContent-145 artistComponent-cardContent-11"
+            >
+              <h2
+                class="MuiTypography-root-12 MuiTypography-headline-17 MuiTypography-gutterBottom-30"
+              >
+                Wish You Were Here
+              </h2>
+              <p
+                class="MuiTypography-root-12 MuiTypography-body1-21"
+              >
+                1975-09-12
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiGrid-item-39 MuiGrid-grid-sm-6-86 MuiGrid-grid-md-4-98 MuiGrid-grid-lg-3-111"
+        >
+          <div
+            class="MuiPaper-root-147 MuiPaper-elevation1-150 MuiPaper-rounded-148 MuiCard-root-146 releaseGroupsComponent-card-143 artistComponent-card-9"
+          >
+            <div
+              class="MuiCardMedia-root-174 releaseGroupsComponent-cardMedia-144 artistComponent-cardMedia-10"
+              style="background-image:url(\\"http://coverartarchive.org/release/cb45c839-2bdf-4cdd-9295-9e48915417f9/18783351928-250.jpg\\")"
+              title="Animals Unreleased Sessions"
+            />
+            <div
+              class="MuiCardContent-root-176 releaseGroupsComponent-cardContent-145 artistComponent-cardContent-11"
+            >
+              <h2
+                class="MuiTypography-root-12 MuiTypography-headline-17 MuiTypography-gutterBottom-30"
+              >
+                Animals Unreleased Sessions
+              </h2>
+              <p
+                class="MuiTypography-root-12 MuiTypography-body1-21"
+              >
+                2014
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiGrid-item-39 MuiGrid-grid-sm-6-86 MuiGrid-grid-md-4-98 MuiGrid-grid-lg-3-111"
+        >
+          <div
+            class="MuiPaper-root-147 MuiPaper-elevation1-150 MuiPaper-rounded-148 MuiCard-root-146 releaseGroupsComponent-card-143 artistComponent-card-9"
+          >
+            <div
+              class="MuiCardMedia-root-174 releaseGroupsComponent-cardMedia-144 artistComponent-cardMedia-10"
+              style="background-image:url(\\"http://coverartarchive.org/release/b249399e-77a7-3bb5-ba51-7368506e6f02/8215817116-250.jpg\\")"
+              title="Animals"
+            />
+            <div
+              class="MuiCardContent-root-176 releaseGroupsComponent-cardContent-145 artistComponent-cardContent-11"
+            >
+              <h2
+                class="MuiTypography-root-12 MuiTypography-headline-17 MuiTypography-gutterBottom-30"
+              >
+                Animals
+              </h2>
+              <p
+                class="MuiTypography-root-12 MuiTypography-body1-21"
+              >
+                1977-01-23
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiGrid-item-39 MuiGrid-grid-sm-6-86 MuiGrid-grid-md-4-98 MuiGrid-grid-lg-3-111"
+        >
+          <div
+            class="MuiPaper-root-147 MuiPaper-elevation1-150 MuiPaper-rounded-148 MuiCard-root-146 releaseGroupsComponent-card-143 artistComponent-card-9"
+          >
+            <div
+              class="MuiCardMedia-root-174 releaseGroupsComponent-cardMedia-144 artistComponent-cardMedia-10"
+              style="background-image:url(\\"/no-cover.png\\")"
+              title="Animals / A Saucer Full of Secrets"
+            />
+            <div
+              class="MuiCardContent-root-176 releaseGroupsComponent-cardContent-145 artistComponent-cardContent-11"
+            >
+              <h2
+                class="MuiTypography-root-12 MuiTypography-headline-17 MuiTypography-gutterBottom-30"
+              >
+                Animals / A Saucer Full of Secrets
+              </h2>
+              <p
+                class="MuiTypography-root-12 MuiTypography-body1-21"
+              >
+                Release Date N/A
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiGrid-item-39 MuiGrid-grid-sm-6-86 MuiGrid-grid-md-4-98 MuiGrid-grid-lg-3-111"
+        >
+          <div
+            class="MuiPaper-root-147 MuiPaper-elevation1-150 MuiPaper-rounded-148 MuiCard-root-146 releaseGroupsComponent-card-143 artistComponent-card-9"
+          >
+            <div
+              class="MuiCardMedia-root-174 releaseGroupsComponent-cardMedia-144 artistComponent-cardMedia-10"
+              style="background-image:url(\\"http://coverartarchive.org/release/a87679ce-b66c-47c8-8bd2-cc4733f4d1c7/14333798318-250.jpg\\")"
+              title="Omayyad"
+            />
+            <div
+              class="MuiCardContent-root-176 releaseGroupsComponent-cardContent-145 artistComponent-cardContent-11"
+            >
+              <h2
+                class="MuiTypography-root-12 MuiTypography-headline-17 MuiTypography-gutterBottom-30"
+              >
+                Omayyad
+              </h2>
+              <p
+                class="MuiTypography-root-12 MuiTypography-body1-21"
+              >
+                1972
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiGrid-item-39 MuiGrid-grid-sm-6-86 MuiGrid-grid-md-4-98 MuiGrid-grid-lg-3-111"
+        >
+          <div
+            class="MuiPaper-root-147 MuiPaper-elevation1-150 MuiPaper-rounded-148 MuiCard-root-146 releaseGroupsComponent-card-143 artistComponent-card-9"
+          >
+            <div
+              class="MuiCardMedia-root-174 releaseGroupsComponent-cardMedia-144 artistComponent-cardMedia-10"
+              style="background-image:url(\\"http://coverartarchive.org/release/708e18bf-ef36-4595-8256-359e98f673ed/8923452093-250.jpg\\")"
+              title="The Endless River"
+            />
+            <div
+              class="MuiCardContent-root-176 releaseGroupsComponent-cardContent-145 artistComponent-cardContent-11"
+            >
+              <h2
+                class="MuiTypography-root-12 MuiTypography-headline-17 MuiTypography-gutterBottom-30"
+              >
+                The Endless River
+              </h2>
+              <p
+                class="MuiTypography-root-12 MuiTypography-body1-21"
+              >
+                2014-11-07
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiGrid-item-39 MuiGrid-grid-sm-6-86 MuiGrid-grid-md-4-98 MuiGrid-grid-lg-3-111"
+        >
+          <div
+            class="MuiPaper-root-147 MuiPaper-elevation1-150 MuiPaper-rounded-148 MuiCard-root-146 releaseGroupsComponent-card-143 artistComponent-card-9"
+          >
+            <div
+              class="MuiCardMedia-root-174 releaseGroupsComponent-cardMedia-144 artistComponent-cardMedia-10"
+              style="background-image:url(\\"http://coverartarchive.org/release/b207d7d6-5922-3297-a077-9953cc9ee52d/2550521303-250.jpg\\")"
+              title="A Momentary Lapse of Reason"
+            />
+            <div
+              class="MuiCardContent-root-176 releaseGroupsComponent-cardContent-145 artistComponent-cardContent-11"
+            >
+              <h2
+                class="MuiTypography-root-12 MuiTypography-headline-17 MuiTypography-gutterBottom-30"
+              >
+                A Momentary Lapse of Reason
+              </h2>
+              <p
+                class="MuiTypography-root-12 MuiTypography-body1-21"
+              >
+                1987-09-07
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiGrid-item-39 MuiGrid-grid-sm-6-86 MuiGrid-grid-md-4-98 MuiGrid-grid-lg-3-111"
+        >
+          <div
+            class="MuiPaper-root-147 MuiPaper-elevation1-150 MuiPaper-rounded-148 MuiCard-root-146 releaseGroupsComponent-card-143 artistComponent-card-9"
+          >
+            <div
+              class="MuiCardMedia-root-174 releaseGroupsComponent-cardMedia-144 artistComponent-cardMedia-10"
+              style="background-image:url(\\"http://coverartarchive.org/release/09ed5877-bb22-4a26-8ec7-c95e5ee70fd3/14263254363-250.jpg\\")"
+              title="Meddle"
+            />
+            <div
+              class="MuiCardContent-root-176 releaseGroupsComponent-cardContent-145 artistComponent-cardContent-11"
+            >
+              <h2
+                class="MuiTypography-root-12 MuiTypography-headline-17 MuiTypography-gutterBottom-30"
+              >
+                Meddle
+              </h2>
+              <p
+                class="MuiTypography-root-12 MuiTypography-body1-21"
+              >
+                1971-10-30
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiGrid-item-39 MuiGrid-grid-sm-6-86 MuiGrid-grid-md-4-98 MuiGrid-grid-lg-3-111"
+        >
+          <div
+            class="MuiPaper-root-147 MuiPaper-elevation1-150 MuiPaper-rounded-148 MuiCard-root-146 releaseGroupsComponent-card-143 artistComponent-card-9"
+          >
+            <div
+              class="MuiCardMedia-root-174 releaseGroupsComponent-cardMedia-144 artistComponent-cardMedia-10"
+              style="background-image:url(\\"http://coverartarchive.org/release/cf0d899c-bbc6-4a33-ba74-5e335284e836/14466470067-250.jpg\\")"
+              title="The Piper at the Gates of Dawn"
+            />
+            <div
+              class="MuiCardContent-root-176 releaseGroupsComponent-cardContent-145 artistComponent-cardContent-11"
+            >
+              <h2
+                class="MuiTypography-root-12 MuiTypography-headline-17 MuiTypography-gutterBottom-30"
+              >
+                The Piper at the Gates of Dawn
+              </h2>
+              <p
+                class="MuiTypography-root-12 MuiTypography-body1-21"
+              >
+                1967-07-07
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiGrid-item-39 MuiGrid-grid-sm-6-86 MuiGrid-grid-md-4-98 MuiGrid-grid-lg-3-111"
+        >
+          <div
+            class="MuiPaper-root-147 MuiPaper-elevation1-150 MuiPaper-rounded-148 MuiCard-root-146 releaseGroupsComponent-card-143 artistComponent-card-9"
+          >
+            <div
+              class="MuiCardMedia-root-174 releaseGroupsComponent-cardMedia-144 artistComponent-cardMedia-10"
+              style="background-image:url(\\"http://coverartarchive.org/release/eb192c79-83c2-40a0-a0b3-ef228c17a871/14745986830-250.jpg\\")"
+              title="Early Flights, Vol. 6"
+            />
+            <div
+              class="MuiCardContent-root-176 releaseGroupsComponent-cardContent-145 artistComponent-cardContent-11"
+            >
+              <h2
+                class="MuiTypography-root-12 MuiTypography-headline-17 MuiTypography-gutterBottom-30"
+              >
+                Early Flights, Vol. 6
+              </h2>
+              <p
+                class="MuiTypography-root-12 MuiTypography-body1-21"
+              >
+                2001
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiGrid-item-39 MuiGrid-grid-sm-6-86 MuiGrid-grid-md-4-98 MuiGrid-grid-lg-3-111"
+        >
+          <div
+            class="MuiPaper-root-147 MuiPaper-elevation1-150 MuiPaper-rounded-148 MuiCard-root-146 releaseGroupsComponent-card-143 artistComponent-card-9"
+          >
+            <div
+              class="MuiCardMedia-root-174 releaseGroupsComponent-cardMedia-144 artistComponent-cardMedia-10"
+              style="background-image:url(\\"http://coverartarchive.org/release/3f043b3a-c1fb-4420-887c-92f5ddb7c28c/18845768156-250.jpg\\")"
+              title="The Best of The Pink Floyd"
+            />
+            <div
+              class="MuiCardContent-root-176 releaseGroupsComponent-cardContent-145 artistComponent-cardContent-11"
+            >
+              <h2
+                class="MuiTypography-root-12 MuiTypography-headline-17 MuiTypography-gutterBottom-30"
+              >
+                The Best of The Pink Floyd
+              </h2>
+              <p
+                class="MuiTypography-root-12 MuiTypography-body1-21"
+              >
+                1970
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiGrid-item-39 MuiGrid-grid-sm-6-86 MuiGrid-grid-md-4-98 MuiGrid-grid-lg-3-111"
+        >
+          <div
+            class="MuiPaper-root-147 MuiPaper-elevation1-150 MuiPaper-rounded-148 MuiCard-root-146 releaseGroupsComponent-card-143 artistComponent-card-9"
+          >
+            <div
+              class="MuiCardMedia-root-174 releaseGroupsComponent-cardMedia-144 artistComponent-cardMedia-10"
+              style="background-image:url(\\"http://coverartarchive.org/release/91e18141-20bd-30a4-9dd2-e9c1c00dbf26/14257915335-250.jpg\\")"
+              title="Relics"
+            />
+            <div
+              class="MuiCardContent-root-176 releaseGroupsComponent-cardContent-145 artistComponent-cardContent-11"
+            >
+              <h2
+                class="MuiTypography-root-12 MuiTypography-headline-17 MuiTypography-gutterBottom-30"
+              >
+                Relics
+              </h2>
+              <p
+                class="MuiTypography-root-12 MuiTypography-body1-21"
+              >
+                1971-05-14
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiGrid-item-39 MuiGrid-grid-sm-6-86 MuiGrid-grid-md-4-98 MuiGrid-grid-lg-3-111"
+        >
+          <div
+            class="MuiPaper-root-147 MuiPaper-elevation1-150 MuiPaper-rounded-148 MuiCard-root-146 releaseGroupsComponent-card-143 artistComponent-card-9"
+          >
+            <div
+              class="MuiCardMedia-root-174 releaseGroupsComponent-cardMedia-144 artistComponent-cardMedia-10"
+              style="background-image:url(\\"http://coverartarchive.org/release/bc2be498-ff42-4a4f-b4df-53d6e3bee74a/1290107237-250.jpg\\")"
+              title="A Saucerful of Secrets"
+            />
+            <div
+              class="MuiCardContent-root-176 releaseGroupsComponent-cardContent-145 artistComponent-cardContent-11"
+            >
+              <h2
+                class="MuiTypography-root-12 MuiTypography-headline-17 MuiTypography-gutterBottom-30"
+              >
+                A Saucerful of Secrets
+              </h2>
+              <p
+                class="MuiTypography-root-12 MuiTypography-body1-21"
+              >
+                1968-06-29
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiGrid-item-39 MuiGrid-grid-sm-6-86 MuiGrid-grid-md-4-98 MuiGrid-grid-lg-3-111"
+        >
+          <div
+            class="MuiPaper-root-147 MuiPaper-elevation1-150 MuiPaper-rounded-148 MuiCard-root-146 releaseGroupsComponent-card-143 artistComponent-card-9"
+          >
+            <div
+              class="MuiCardMedia-root-174 releaseGroupsComponent-cardMedia-144 artistComponent-cardMedia-10"
+              style="background-image:url(\\"http://coverartarchive.org/release/2696cd76-9257-33bf-b3c0-a3cb3f4ce48a/15229284523-250.jpg\\")"
+              title="The Division Bell"
+            />
+            <div
+              class="MuiCardContent-root-176 releaseGroupsComponent-cardContent-145 artistComponent-cardContent-11"
+            >
+              <h2
+                class="MuiTypography-root-12 MuiTypography-headline-17 MuiTypography-gutterBottom-30"
+              >
+                The Division Bell
+              </h2>
+              <p
+                class="MuiTypography-root-12 MuiTypography-body1-21"
+              >
+                1994-03-28
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiGrid-item-39 MuiGrid-grid-sm-6-86 MuiGrid-grid-md-4-98 MuiGrid-grid-lg-3-111"
+        >
+          <div
+            class="MuiPaper-root-147 MuiPaper-elevation1-150 MuiPaper-rounded-148 MuiCard-root-146 releaseGroupsComponent-card-143 artistComponent-card-9"
+          >
+            <div
+              class="MuiCardMedia-root-174 releaseGroupsComponent-cardMedia-144 artistComponent-cardMedia-10"
+              style="background-image:url(\\"http://coverartarchive.org/release/197d9fac-4140-4d3a-9327-68893cba60f8/12597349933-250.jpg\\")"
+              title="The Great Gig in the Sky"
+            />
+            <div
+              class="MuiCardContent-root-176 releaseGroupsComponent-cardContent-145 artistComponent-cardContent-11"
+            >
+              <h2
+                class="MuiTypography-root-12 MuiTypography-headline-17 MuiTypography-gutterBottom-30"
+              >
+                The Great Gig in the Sky
+              </h2>
+              <p
+                class="MuiTypography-root-12 MuiTypography-body1-21"
+              >
+                2008
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiGrid-item-39 MuiGrid-grid-sm-6-86 MuiGrid-grid-md-4-98 MuiGrid-grid-lg-3-111"
+        >
+          <div
+            class="MuiPaper-root-147 MuiPaper-elevation1-150 MuiPaper-rounded-148 MuiCard-root-146 releaseGroupsComponent-card-143 artistComponent-card-9"
+          >
+            <div
+              class="MuiCardMedia-root-174 releaseGroupsComponent-cardMedia-144 artistComponent-cardMedia-10"
+              style="background-image:url(\\"http://coverartarchive.org/release/c1ad763c-431a-4134-94b6-8ac508154b7b/7328245998-250.jpg\\")"
+              title="Ummagumma"
+            />
+            <div
+              class="MuiCardContent-root-176 releaseGroupsComponent-cardContent-145 artistComponent-cardContent-11"
+            >
+              <h2
+                class="MuiTypography-root-12 MuiTypography-headline-17 MuiTypography-gutterBottom-30"
+              >
+                Ummagumma
+              </h2>
+              <p
+                class="MuiTypography-root-12 MuiTypography-body1-21"
+              >
+                1969-10-25
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiGrid-item-39 MuiGrid-grid-sm-6-86 MuiGrid-grid-md-4-98 MuiGrid-grid-lg-3-111"
+        >
+          <div
+            class="MuiPaper-root-147 MuiPaper-elevation1-150 MuiPaper-rounded-148 MuiCard-root-146 releaseGroupsComponent-card-143 artistComponent-card-9"
+          >
+            <div
+              class="MuiCardMedia-root-174 releaseGroupsComponent-cardMedia-144 artistComponent-cardMedia-10"
+              style="background-image:url(\\"/no-cover.png\\")"
+              title="Zabriskie Point – The Sessions"
+            />
+            <div
+              class="MuiCardContent-root-176 releaseGroupsComponent-cardContent-145 artistComponent-cardContent-11"
+            >
+              <h2
+                class="MuiTypography-root-12 MuiTypography-headline-17 MuiTypography-gutterBottom-30"
+              >
+                Zabriskie Point – The Sessions
+              </h2>
+              <p
+                class="MuiTypography-root-12 MuiTypography-body1-21"
+              >
+                Release Date N/A
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiGrid-item-39 MuiGrid-grid-sm-6-86 MuiGrid-grid-md-4-98 MuiGrid-grid-lg-3-111"
+        >
+          <div
+            class="MuiPaper-root-147 MuiPaper-elevation1-150 MuiPaper-rounded-148 MuiCard-root-146 releaseGroupsComponent-card-143 artistComponent-card-9"
+          >
+            <div
+              class="MuiCardMedia-root-174 releaseGroupsComponent-cardMedia-144 artistComponent-cardMedia-10"
+              style="background-image:url(\\"http://coverartarchive.org/release/6571020d-6b25-4edd-9e82-44aba29827d0/1290111608-250.jpg\\")"
+              title="Atom Heart Mother"
+            />
+            <div
+              class="MuiCardContent-root-176 releaseGroupsComponent-cardContent-145 artistComponent-cardContent-11"
+            >
+              <h2
+                class="MuiTypography-root-12 MuiTypography-headline-17 MuiTypography-gutterBottom-30"
+              >
+                Atom Heart Mother
+              </h2>
+              <p
+                class="MuiTypography-root-12 MuiTypography-body1-21"
+              >
+                1970-10-10
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiGrid-item-39 MuiGrid-grid-sm-6-86 MuiGrid-grid-md-4-98 MuiGrid-grid-lg-3-111"
+        >
+          <div
+            class="MuiPaper-root-147 MuiPaper-elevation1-150 MuiPaper-rounded-148 MuiCard-root-146 releaseGroupsComponent-card-143 artistComponent-card-9"
+          >
+            <div
+              class="MuiCardMedia-root-174 releaseGroupsComponent-cardMedia-144 artistComponent-cardMedia-10"
+              style="background-image:url(\\"/no-cover.png\\")"
+              title="Moments in Melbourne"
+            />
+            <div
+              class="MuiCardContent-root-176 releaseGroupsComponent-cardContent-145 artistComponent-cardContent-11"
+            >
+              <h2
+                class="MuiTypography-root-12 MuiTypography-headline-17 MuiTypography-gutterBottom-30"
+              >
+                Moments in Melbourne
+              </h2>
+              <p
+                class="MuiTypography-root-12 MuiTypography-body1-21"
+              >
+                2016
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiGrid-item-39 MuiGrid-grid-sm-6-86 MuiGrid-grid-md-4-98 MuiGrid-grid-lg-3-111"
+        >
+          <div
+            class="MuiPaper-root-147 MuiPaper-elevation1-150 MuiPaper-rounded-148 MuiCard-root-146 releaseGroupsComponent-card-143 artistComponent-card-9"
+          >
+            <div
+              class="MuiCardMedia-root-174 releaseGroupsComponent-cardMedia-144 artistComponent-cardMedia-10"
+              style="background-image:url(\\"http://coverartarchive.org/release/2f9da099-d580-3360-a7d1-52a7d23f2d77/1612260329-250.jpg\\")"
+              title="The Final Cut"
+            />
+            <div
+              class="MuiCardContent-root-176 releaseGroupsComponent-cardContent-145 artistComponent-cardContent-11"
+            >
+              <h2
+                class="MuiTypography-root-12 MuiTypography-headline-17 MuiTypography-gutterBottom-30"
+              >
+                The Final Cut
+              </h2>
+              <p
+                class="MuiTypography-root-12 MuiTypography-body1-21"
+              >
+                1983-03-21
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiGrid-item-39 MuiGrid-grid-sm-6-86 MuiGrid-grid-md-4-98 MuiGrid-grid-lg-3-111"
+        >
+          <div
+            class="MuiPaper-root-147 MuiPaper-elevation1-150 MuiPaper-rounded-148 MuiCard-root-146 releaseGroupsComponent-card-143 artistComponent-card-9"
+          >
+            <div
+              class="MuiCardMedia-root-174 releaseGroupsComponent-cardMedia-144 artistComponent-cardMedia-10"
+              style="background-image:url(\\"http://coverartarchive.org/release/93c4f215-15ae-34a2-981a-9a5fbd700004/14428284780-250.jpg\\")"
+              title="The Wall"
+            />
+            <div
+              class="MuiCardContent-root-176 releaseGroupsComponent-cardContent-145 artistComponent-cardContent-11"
+            >
+              <h2
+                class="MuiTypography-root-12 MuiTypography-headline-17 MuiTypography-gutterBottom-30"
+              >
+                The Wall
+              </h2>
+              <p
+                class="MuiTypography-root-12 MuiTypography-body1-21"
+              >
+                1979-11-30
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiGrid-item-39 MuiGrid-grid-sm-6-86 MuiGrid-grid-md-4-98 MuiGrid-grid-lg-3-111"
+        >
+          <div
+            class="MuiPaper-root-147 MuiPaper-elevation1-150 MuiPaper-rounded-148 MuiCard-root-146 releaseGroupsComponent-card-143 artistComponent-card-9"
+          >
+            <div
+              class="MuiCardMedia-root-174 releaseGroupsComponent-cardMedia-144 artistComponent-cardMedia-10"
+              style="background-image:url(\\"http://coverartarchive.org/release/25fbfbb4-b1ee-4448-aadf-ae3bc2e2dd27/18974521469-250.jpg\\")"
+              title="The Dark Side of the Moon"
+            />
+            <div
+              class="MuiCardContent-root-176 releaseGroupsComponent-cardContent-145 artistComponent-cardContent-11"
+            >
+              <h2
+                class="MuiTypography-root-12 MuiTypography-headline-17 MuiTypography-gutterBottom-30"
+              >
+                The Dark Side of the Moon
+              </h2>
+              <p
+                class="MuiTypography-root-12 MuiTypography-body1-21"
+              >
+                1973-03-24
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="artistComponent-layout-7 artistComponent-cardGrid-8"
+    >
+      <p
+        class="MuiTypography-root-12 MuiTypography-display3-14 MuiTypography-colorTextPrimary-35 MuiTypography-paragraph-31 MuiTypography-alignLeft-25"
+      >
+        Fan Art
+      </p>
+      <div
+        class="MuiGrid-container-38 MuiGrid-spacing-xs-40-64"
+      >
+        <div
+          class="MuiGrid-item-39 MuiGrid-grid-sm-6-86 MuiGrid-grid-md-6-100 MuiGrid-grid-lg-6-114"
+        >
+          <div
+            class="MuiPaper-root-147 MuiPaper-elevation1-150 MuiPaper-rounded-148 MuiCard-root-146 fanArtComponent-card-185 artistComponent-card-9"
+          >
+            <div
+              class="MuiCardMedia-root-174 fanArtComponent-cardMedia-186 artistComponent-cardMedia-10"
+              style="background-image:url(\\"https://assets.fanart.tv/fanart/music/83d91898-7763-47d7-b03b-b92132375c47/artistthumb/pink-floyd-4fad917437146.jpg\\")"
+            />
+          </div>
+        </div>
+        <div
+          class="MuiGrid-item-39 MuiGrid-grid-sm-6-86 MuiGrid-grid-md-6-100 MuiGrid-grid-lg-6-114"
+        >
+          <div
+            class="MuiPaper-root-147 MuiPaper-elevation1-150 MuiPaper-rounded-148 MuiCard-root-146 fanArtComponent-card-185 artistComponent-card-9"
+          >
+            <div
+              class="MuiCardMedia-root-174 fanArtComponent-cardMedia-186 artistComponent-cardMedia-10"
+              style="background-image:url(\\"https://assets.fanart.tv/fanart/music/83d91898-7763-47d7-b03b-b92132375c47/artistthumb/pink-floyd-4fb4eca9370e6.jpg\\")"
+            />
+          </div>
+        </div>
+        <div
+          class="MuiGrid-item-39 MuiGrid-grid-sm-6-86 MuiGrid-grid-md-6-100 MuiGrid-grid-lg-6-114"
+        >
+          <div
+            class="MuiPaper-root-147 MuiPaper-elevation1-150 MuiPaper-rounded-148 MuiCard-root-146 fanArtComponent-card-185 artistComponent-card-9"
+          >
+            <div
+              class="MuiCardMedia-root-174 fanArtComponent-cardMedia-186 artistComponent-cardMedia-10"
+              style="background-image:url(\\"https://assets.fanart.tv/fanart/music/83d91898-7763-47d7-b03b-b92132375c47/artistthumb/pink-floyd-4fad9106aa7bf.jpg\\")"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</main>
+`;

@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FanArt component should show default image when no cover art is present 1`] = `
+<div
+  class="MuiGrid-item-13 MuiGrid-grid-sm-6-60 MuiGrid-grid-md-6-74 MuiGrid-grid-lg-6-88"
+>
+  <div
+    class="MuiPaper-root-110 MuiPaper-elevation1-113 MuiPaper-rounded-111 MuiCard-root-109 fanArtComponent-card-9"
+  >
+    <div
+      class="MuiCardMedia-root-137 fanArtComponent-cardMedia-10"
+      style="background-image:url(\\"/no-cover.png\\")"
+    />
+  </div>
+</div>
+`;
+
+exports[`FanArt component should show information when "fanArt" property is given 1`] = `
+Array [
+  <div
+    class="MuiGrid-item-13 MuiGrid-grid-sm-6-60 MuiGrid-grid-md-6-74 MuiGrid-grid-lg-6-88"
+  >
+    <div
+      class="MuiPaper-root-110 MuiPaper-elevation1-113 MuiPaper-rounded-111 MuiCard-root-109 fanArtComponent-card-9"
+    >
+      <div
+        class="MuiCardMedia-root-137 fanArtComponent-cardMedia-10"
+        style="background-image:url(\\"https://assets.fanart.tv/fanart/music/83d91898-7763-47d7-b03b-b92132375c47/artistthumb/pink-floyd-4fad917437146.jpg\\")"
+      />
+    </div>
+  </div>,
+  <div
+    class="MuiGrid-item-13 MuiGrid-grid-sm-6-60 MuiGrid-grid-md-6-74 MuiGrid-grid-lg-6-88"
+  >
+    <div
+      class="MuiPaper-root-110 MuiPaper-elevation1-113 MuiPaper-rounded-111 MuiCard-root-109 fanArtComponent-card-9"
+    >
+      <div
+        class="MuiCardMedia-root-137 fanArtComponent-cardMedia-10"
+        style="background-image:url(\\"https://assets.fanart.tv/fanart/music/83d91898-7763-47d7-b03b-b92132375c47/artistthumb/pink-floyd-4fb4eca9370e6.jpg\\")"
+      />
+    </div>
+  </div>,
+  <div
+    class="MuiGrid-item-13 MuiGrid-grid-sm-6-60 MuiGrid-grid-md-6-74 MuiGrid-grid-lg-6-88"
+  >
+    <div
+      class="MuiPaper-root-110 MuiPaper-elevation1-113 MuiPaper-rounded-111 MuiCard-root-109 fanArtComponent-card-9"
+    >
+      <div
+        class="MuiCardMedia-root-137 fanArtComponent-cardMedia-10"
+        style="background-image:url(\\"https://assets.fanart.tv/fanart/music/83d91898-7763-47d7-b03b-b92132375c47/artistthumb/pink-floyd-4fad9106aa7bf.jpg\\")"
+      />
+    </div>
+  </div>,
+]
+`;
