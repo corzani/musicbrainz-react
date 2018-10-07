@@ -1,7 +1,6 @@
-import Flag from "react-world-flags";
 import React from "react";
 
 export default ({country}) => {
-    const countryFlag = country || "";
-    return (<Flag code={countryFlag} height="40"/>);
+    const countryFlag = country ? `https://www.countryflags.io/${country}/shiny/64.png`: "";
+    return (<img src={countryFlag} alt={`${country} Flag`} />);
 };

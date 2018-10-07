@@ -21,8 +21,7 @@
     "react-router": "^4.3.1",
     "react-router-redux": "latest",
     "react-scripts": "2.0.4",
-    "react-star-rating-component": "^1.4.1",
-    "react-world-flags": "^1.2.4"
+    "react-star-rating-component": "^1.4.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -44,7 +43,8 @@
   ],
   "devDependencies": {
     "enzyme": "^3.6.0",
+    "react-test-renderer": "latest",
     "waait": "^1.0.2",
-    "react-test-renderer": "latest"
+    "webpack-bundle-analyzer": "^3.0.2"
   }
 }
