@@ -20,7 +20,7 @@
     "react-redux": "^5.0.7",
     "react-router": "^4.3.1",
     "react-router-redux": "latest",
-    "react-scripts": "2.0.4",
+    "react-scripts": "5.0.1",
     "react-star-rating-component": "^1.4.1"
   },
   "scripts": {
